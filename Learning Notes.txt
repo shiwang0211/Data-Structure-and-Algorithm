@@ -1,0 +1,10 @@
+1. Install JRE/JDK, set windows path to point to the right version of jre.
+`java -version`
+
+2. Run jar file
+`java -jar XXX.jar`
+
+3. compile with jar
+`javac -cp XXX.jar XXX.java`
+
+4. 
